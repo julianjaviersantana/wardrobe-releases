@@ -1,0 +1,25 @@
+{
+  "name": "Wardrobe",
+  "identifier": "com.jujus.wardrobe.source",
+  "apps": [
+    {
+      "name": "Wardrobe",
+      "bundleIdentifier": "com.jujus.wardrobe",
+      "developerName": "Julian Santana",
+      "subtitle": "Daily outfits from your own closet.",
+      "localizedDescription": "Personal wardrobe assistant. Weather, calendar, and laundry aware.",
+      "iconURL": "https://raw.githubusercontent.com/julianjaviersantana/wardrobe-releases/main/AppIcon.png",
+      "tintColor": "1C1C1E",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2026-07-21",
+          "localizedDescription": "Latest build.",
+          "downloadURL": "https://github.com/julianjaviersantana/wardrobe-releases/releases/download/v1.0.3/Wardrobe.ipa",
+          "size": 368314,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
