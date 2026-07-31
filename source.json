@@ -1,22 +1,22 @@
 {
-  "name": "Wardrobe",
+  "name": "Valet",
   "identifier": "com.jujus.wardrobe.source",
   "apps": [
     {
-      "name": "Wardrobe",
+      "name": "Valet",
       "bundleIdentifier": "com.jujus.wardrobe",
       "developerName": "Julian Santana",
-      "subtitle": "Daily outfits from your own closet.",
-      "localizedDescription": "Personal wardrobe assistant. Weather, calendar, and laundry aware.",
+      "subtitle": "Your day, decided.",
+      "localizedDescription": "Personal valet: outfits, schedule, meals, and training - decided for you.",
       "iconURL": "https://raw.githubusercontent.com/julianjaviersantana/wardrobe-releases/main/AppIcon.png",
       "tintColor": "1C1C1E",
       "versions": [
         {
-          "version": "1.0.73",
+          "version": "1.0.74",
           "date": "2026-07-31",
           "localizedDescription": "Latest build.",
-          "downloadURL": "https://github.com/julianjaviersantana/wardrobe-releases/releases/download/v1.0.73/Wardrobe.ipa",
-          "size": 1490980,
+          "downloadURL": "https://github.com/julianjaviersantana/wardrobe-releases/releases/download/v1.0.74/Wardrobe.ipa",
+          "size": 1485569,
           "minOSVersion": "17.0"
         }
       ]
