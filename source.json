@@ -12,11 +12,11 @@
       "tintColor": "1C1C1E",
       "versions": [
         {
-          "version": "1.0.153",
+          "version": "1.0.154",
           "date": "2026-08-25",
           "localizedDescription": "Latest build.",
-          "downloadURL": "https://github.com/julianjaviersantana/wardrobe-releases/releases/download/v1.0.153/Wardrobe.ipa",
-          "size": 2414978,
+          "downloadURL": "https://github.com/julianjaviersantana/wardrobe-releases/releases/download/v1.0.154/Wardrobe.ipa",
+          "size": 2425055,
           "minOSVersion": "17.0"
         }
       ]
